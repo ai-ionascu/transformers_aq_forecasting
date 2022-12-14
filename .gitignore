@@ -1,0 +1,15 @@
+__pycache__
+.ipynb_checkpoints
+.vscode
+diagrams
+other_data
+other_notebooks
+tensorflow=2.4.0
+thesis_models_SU
+thesis_report
+~WRL0182.tmp
+~WRL0461.tmp
+~WRL1123.tmp
+~WRL1368.tmp
+~WRL2169.tmp
+results.xlsx
